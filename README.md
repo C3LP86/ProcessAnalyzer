@@ -9,4 +9,4 @@ First, I used EnumProcesses to enumerate the processes by retrieving their IDs, 
 
 The result is as follows:
 
-"Screen"
+![](./Screen/Final_Result.png)
